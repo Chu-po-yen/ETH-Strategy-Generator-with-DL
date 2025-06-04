@@ -12,7 +12,7 @@
 確保你已安裝以下軟體：
 - Python 3.8 或以上版本
 - pip 套件管理工具
-### **2. 克隆專案**
+### **2. 複製專案**
 ```bash
 git clone https://github.com/your-username/trading-strategy-generator.git
 cd trading-strategy-generator
